@@ -1,4 +1,3 @@
-#variables that will "introduce" the story
 
 import time
 #import datetime
