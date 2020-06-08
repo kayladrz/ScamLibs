@@ -1,2 +1,2 @@
 # ScamLibs
-this is a scam email generator inspired by Mad Libs.
+this is a scam email generator that follows the logic of Mad Libs.
